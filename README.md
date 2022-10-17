@@ -164,7 +164,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### Honors & Awards 🏅
 
-- Winner at 5+ Blockchain hackathons [Devfolio](https://devfolio.co/@Saviour1001)
+<!-- - Winner at 5+ Blockchain hackathons [Devfolio](https://devfolio.co/@Saviour1001) -->
 - Global Rank 7575 at Facebook HackerCup 2021
 - ACM ICPC 2020 Regionalists, Team Name - "We Don't Byte Anymore" 
 - Global Rank 88 in CodeChef June Long Challenge
@@ -207,9 +207,9 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 <br>
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saviour1001&show_icons=true&theme=radical)
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saviour1001&show_icons=true&theme=radical)
 
-![Harsh's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Saviour1001&theme=blue-green)
+![Soham's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Saviour1001&theme=blue-green)
 
 
 <!---
