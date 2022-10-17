@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://substack.com/profile/61736498-soham-shah?utm_source=user-menu" target="_blank">
-  <img alt="Substack" src="https://yt3.ggpht.com/Kzf636KVTGgjknXbPWr1_GuZfzJKrVV9TTLXF6VY0fBkbtPucLyOC3DdkUOp8OIKMYbhGCA80Dk=s900-c-k-c0x00ffffff-no-rj" />
+  <img alt="Substack"  align="left" width="26px" src="https://yt3.ggpht.com/Kzf636KVTGgjknXbPWr1_GuZfzJKrVV9TTLXF6VY0fBkbtPucLyOC3DdkUOp8OIKMYbhGCA80Dk=s900-c-k-c0x00ffffff-no-rj" />
 </a>
 
 
