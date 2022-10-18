@@ -122,14 +122,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 </details>
 
 <details>
-<summary> Contributor at GirlScript Summer of Code 21 🧑‍💻</summary>
-<br>
-
-&emsp;&emsp;Embraced the journey of Open Source along with the wholesome community of Girl Script. Contributed to multiple projects and still contributing.
-	
-</details>
-
-<details>
 <summary> Extern at Crio Winter of Doing 21 🧑‍💻</summary>
 <br>
 
@@ -137,33 +129,21 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 	
 </details>
 
-<details>
-<summary> Mentee at Script Winter of Code 20 🧑‍💻</summary>
-<br>
-
-&emsp;&emsp;Its an open source program which embarked my journey in the world of Open Source. I contributed to [Algorithmic_Treasure](https://github.com/edualgo/interview-corner) and explored the new oppurtunites of Open Source Community.
-	
-</details>
-
 ### Honors & Awards 🏅
 
 <!-- - Winner at 5+ Blockchain hackathons [Devfolio](https://devfolio.co/@Saviour1001) -->
-- Global Rank 7575 at Facebook HackerCup 2021
-- ACM ICPC 2020 Regionalists, Team Name - "We Don't Byte Anymore" 
-- Global Rank 88 in CodeChef June Long Challenge
-- Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity. 
-- Global Rank 5755 in Google Hash Code 2021
-- Selected as a scholarship recipient for Education Outreach program by GirlScript
-- All India Rank 524 in Apex 2021 (Competitve Coding Contest) conducted by Scaler Edge
-
+- Got selected in Qiskit Global Summer School 2022 and achieved Quantum Excellence
+- Became a part of IBM Blockchain Foundation Developer Program
+- Selected as a scholarship recipient for AWS Machine Learning Scholarship Program by AWS & Udacity
+- Selected as a scholarship recipient for Solana Breakpoint
 
 ### Languages I use to talk to computer 🤔
 
 <img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img  align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/220px-Julia_Programming_Language_Logo.svg.png" />
-<img align="left" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img align="left" alt="Solidity" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ABEpeihY--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png"/>
+<img align="left" alt="Rust" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 	
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
