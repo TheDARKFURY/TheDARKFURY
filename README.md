@@ -56,8 +56,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 | Guessing-Game-in-Rust | A game where you need to guess a random number | [Repo](https://github.com/TheDARKFURY/Guessing-Game-in-Rust) | | 
 | Hyperledger-Fabric-Covid-Vaccine-Tracker | A Covid Vaccine Tracker mechanism  | [Repo](https://github.com/TheDARKFURY/Hyperledger-Fabric-Covid-Vaccine-Tracker-) | | 
 		
-		
-- [Journey of my Competitive Coding so far](https://github.com/Saviour1001/Competetive)
 
 </details>
 
@@ -96,21 +94,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 		<br>
 		&emsp;&emsp;There was an error in the documentation of the Readme of token/js regarding a subdirectory.  
 	</details>
-	
-</details>
-
-<details>
-<summary>Program Manager at GirlScript Summer of Code 22 🧑‍💻</summary>
-<br>
-
-&emsp;&emsp;Managing [GSSoC](http://gssoc.girlscript.tech/). Managing all the teams and pulling off the complete 3 month long Open Source Event. The event caters to 8000+ people from all over the world. Majority of the participants are students who are starting their open source journey with this event. As a manager I handled the complete organizing team and partnered up with multiple companies such as [Moralis](https://moralis.io/) to make the event a success !! 	
-</details>
-
-<details>
-<summary>Supervisor at GirlScript Winter of Contributing 21 🧑‍💻</summary>
-<br>
-
-&emsp;&emsp;[GirlScript Winter of Contributing](https://gwoc.girlscript.tech/) is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education. I will be handling and supervising all the activities done by mentors and contributors done on the [GWOC Repository](https://github.com/girlscript/winter-of-contributing) falling under the C/CPP domain.  
 	
 </details>
 
