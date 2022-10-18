@@ -126,7 +126,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img  align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/220px-Julia_Programming_Language_Logo.svg.png" />
 <img align="left" width="75px" alt="Solidity" src="https://cointral.com/wp-content/uploads/2019/11/solidity-nedir.png"/>
-<img align="left" alt="Rust"  width="75px" src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg"/>
+<img align="left" alt="Rust"  height="25px" width="75px" src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg"/>
 	
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
