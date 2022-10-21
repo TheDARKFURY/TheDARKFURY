@@ -59,59 +59,6 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 </details>
 
-### My Experiences 🙌
-
-<details>
-<summary>Major League Hacking Spring Fellow 2022 at Solana Labs 🦀</summary>
-<br>
-
-&emsp;&emsp;Was mentored under [Jon Cinque](https://github.com/joncinque), [Wei He](https://github.com/wei) and [Gage Bachik](https://github.com/GageBachik). Worked on the project [Solana Program Library](https://github.com/solana-labs/solana-program-library), fixed issues on the repository. Worked on porting SPL programs to Anchor framework. 
-	<details>
-	<summary>Issue: Added a checker to check if the recipient address of a token transfer is owned by System Program</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/3085)
-		<br>
-		&emsp;&emsp;Spl-token transfer didn't check if the recipient address was actually owned by System Program or not. This lead to a lot of loss when 			people sent a lot of funds to a wallet owned by a token. Added a check along with a flag to go past the check. 
-	</details>
-	<details>
-	<summary>Issue: Porting the existing Memo program to Anchor Framework</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/3024)
-		<br>
-		&emsp;&emsp;The Memo program in SPL is working and written in Vanilla Rust as of now. I got it recreated in Anchor which is a Rust framework. Added 		the same tests which were there for a previous program and made the PR.
-	</details>
-	<details>
-	<summary>Issue: Categorized the dependancies of token/js</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/2881)
-		<br>
-		&emsp;&emsp;The dependancies in the package.json file need to be corrected as per the requirement on the dev side.  
-	</details>
-	<details>
-	<summary>Issue: Documentation error in token/js</summary>
-	<br>
-		&emsp;&emsp;[Pull Request](https://github.com/solana-labs/solana-program-library/pull/2879)
-		<br>
-		&emsp;&emsp;There was an error in the documentation of the Readme of token/js regarding a subdirectory.  
-	</details>
-	
-</details>
-
-<details>
-<summary>Student Contributor at Bitcoin Core under Summer of Bitcoin 21 ₿ </summary>
-<br>
-
-&emsp;&emsp;Selected as an contributor of [Bitcoin Core](https://bitcoincore.org/) under the event of [Summer of Bitcoin](https://summerofbitcoin.org/) where I was working under mentors along with my peers to contribute towards the fascinating world of cryptocurrencies. My area of focus is Bitcoin-core and the work revolves around contributing to the [Bitcoin](https://github.com/bitcoin/bitcoin). I have been actively reviewing the features focusing GUIX and am also working on improvising the fuzz tests. I have also been exploring the Onion Service and how to run Bitcoin Core on the Tor network, which helps in getting another layer of security to all the nodes. Here is the [article](https://github.com/Saviour1001/docs/blob/main/Articles/how_to_use_bitcoin_core_onion_service.md) where I have combined all the present documentation regarding the same and created a quick and easy guide to get Bitcoin Core running on Tor. 
-	
-</details>
-
-<details>
-<summary> Mentor at DevIncept Contributor Program 21 🧑‍💻</summary>
-<br>
-
-&emsp;&emsp;[DevIncept Contributor Program](https://devincept.tech/join-us.html) is an Open-Source program to bring students into the world of open source development. There is no restriction in technology, framework or language. I have been assigned the mentor to the [Competitive Programming Question Bank](https://github.com/smv1999/CompetitiveProgrammingQuestionBank).
-	
-</details>
 
 ### Honors & Awards 🏅
 
