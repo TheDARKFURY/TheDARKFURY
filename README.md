@@ -56,7 +56,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 | Soham-Frens | Making friends on Polygon chain | [Repo](https://github.com/TheDARKFURY/Soham-Frens-NFT-ERC721) | [Spheron](https://soham-frens-unv2gq.spheron.app/) | 
 | Guessing-Game-in-Rust | A game where you need to guess a random number | [Repo](https://github.com/TheDARKFURY/Guessing-Game-in-Rust) | | 
 | Hyperledger-Fabric-Covid-Vaccine-Tracker | A Covid Vaccine Tracker mechanism  | [Repo](https://github.com/TheDARKFURY/Hyperledger-Fabric-Covid-Vaccine-Tracker-) | | 
-		
+| RagTag | A web3 version of GumRoad | [Repo](https://github.com/TheDARKFURY/ragtag) | [Vercel](https://collabs-on-chain.vercel.app/) | [Devfolio - ETHIndia](https://devfolio.co/amritathon/dashboard)
 
 </details>
 
