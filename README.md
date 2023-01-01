@@ -29,7 +29,8 @@
 I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on Blockchain technology.I also have a knack for researching on the advancements and Open Source. 
 
 - ⚡ Fun fact: I love playing chess and badminton. So if you up for a game send me a dm at <a href="https://twitter.com/shahsoham_" target="_blank">Twitter</a>.
-
+- 🏆 Fact: 2 x Hackathons Winner 
+- 
 ### 🔭 I’m 
 
 - Building [Aasthi](https://www.linkedin.com/company/aasthi)
