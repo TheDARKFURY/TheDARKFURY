@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Soham!
  
 
-
 <a href="https://www.linkedin.com/in/sohamshah23/" target="_blank">
   <img  align="left" width="28px" src="https://cdn.pixabay.com/photo/2017/08/22/11/56/linked-in-2668700_1280.png" />
 </a>
