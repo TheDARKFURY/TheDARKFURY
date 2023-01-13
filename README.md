@@ -56,7 +56,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 | Guessing-Game-in-Rust | A game where you need to guess a random number | [Repo](https://github.com/TheDARKFURY/Guessing-Game-in-Rust) | | 
 | Hyperledger-Fabric-Covid-Vaccine-Tracker | A Covid Vaccine Tracker mechanism  | [Repo](https://github.com/TheDARKFURY/Hyperledger-Fabric-Covid-Vaccine-Tracker-) | | 
 | RagTag | A web3 version of GumRoad | [Repo](https://github.com/TheDARKFURY/ragtag) | [Vercel](https://ragtag.vercel.app/) | [Devfolio - ETHIndia2022](https://devfolio.co/ethindia2022/dashboard)
-
+| Ally3 | Contribution Power Gating Mechanism on Solana | [Repo](https://github.com/TheDARKFURY/Ally3) | [Vercel](https://ally3-l8l41jrot-thedarkfury.vercel.app/) | [Solana Sandstorm]
 </details>
 
 
