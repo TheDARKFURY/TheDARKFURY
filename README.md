@@ -32,7 +32,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### 🔭 I’m 
 
-- Building [Aasthi](https://www.linkedin.com/company/aasthi)
+- Building [Ally3](https://www.linkedin.com/company/aasthi)
 
 - Member at [DeveloperDAO](https://www.developerdao.com/) 
 
