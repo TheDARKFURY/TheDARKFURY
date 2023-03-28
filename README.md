@@ -32,7 +32,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 ### 🔭 I’m 
 
-- Building [RewardHub](https://discord.com/channels/1033504592383705148/1067235257734148096)
+- Building [RewardHub](https://rewardhub.vercel.app/)
 
 - Member at [DeveloperDAO](https://www.developerdao.com/) 
 
