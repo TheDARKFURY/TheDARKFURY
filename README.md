@@ -36,7 +36,7 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 - Member at [DeveloperDAO](https://www.developerdao.com/) 
 
-- Member at [SuperTeamDAO](https://twitter.com/SuperteamDAO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
+- Member at [Superteam](https://twitter.com/superteam) 
 
 - Community Advocate at [Chainlink](https://twitter.com/Chainlink_IN) 
 
