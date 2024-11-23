@@ -28,15 +28,15 @@
 I am a coder who loves to think solutions out of thin air. I enjoy learning about and working on Blockchain technology.I also have a knack for researching on the advancements and Open Source. 
 
 - ⚡ Fun fact: I love playing chess and badminton. So if you up for a game send me a dm at <a href="https://twitter.com/sohamshah__" target="_blank">Twitter</a>.
-- 🏆 Fact: 2 x Hackathons Winner 
+- 🏆 Fact: 5x Hackathons Winner 
 
 ### 🔭 I’m 
 
-- Building [RewardHub](https://rewardhub.vercel.app/)
+- Building [Codigo](https://codigo.ai/)
 
 - Member at [DeveloperDAO](https://www.developerdao.com/) 
 
-- Contributor at [SuperTeamDAO](https://twitter.com/SuperteamDAO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
+- Member at [SuperTeamDAO](https://twitter.com/SuperteamDAO?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) 
 
 - Community Advocate at [Chainlink](https://twitter.com/Chainlink_IN) 
 
