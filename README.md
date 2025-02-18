@@ -101,10 +101,10 @@ I am a coder who loves to think solutions out of thin air. I enjoy learning abou
 
 <br>
 
+<!---
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDARKFURY&show_icons=true&theme=radical)
-
 ![Soham's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=TheDARKFURY&theme=blue-green)
-
+--->
 
 <!---
 TheDARKFURY/TheDARKFURY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
